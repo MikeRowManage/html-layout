@@ -1,0 +1,42 @@
+#top-box {
+    height: 100px;
+    width: 100vw;
+    background-color:lightgray;
+}
+
+#blue-box {
+    height: 70px;
+    width: 70px;
+    background-color: blue;
+    margin-left: 20px;
+}
+
+.rows {
+    height: 100px;
+    width: 100%;
+    
+}
+
+#first { 
+    background-color: blue;
+}
+
+#second {
+    background-color: turquoise;
+}
+
+#third {
+    background-color: chartreuse;
+}
+
+#fourth {
+    background-color: yellow;
+}
+
+
+
+#text-box {
+    text-align: center;
+    margin: 50px;
+    font-size: 20px;
+}

@@ -1,0 +1,26 @@
+.header {
+    background-color:dimgray;
+    height: 150px;
+    width: 100%;
+}
+
+.left-box {
+    display: inline-block;
+    width: 15%;
+    height: 700px;
+    background-color: lightgray;
+}
+
+.bottom-box {
+    display: inline-block;
+    background-color: black;
+    width: 69%;
+    height: 150px;
+}
+
+.right-box {
+    display: inline-block;
+    width: 15%;
+    height: 700px;
+    background-color: lightgray;
+}
